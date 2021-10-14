@@ -1,1 +1,1 @@
-# sam-thing-2
+# simple caterpillar game for anybody freaking out about midterm project!
